@@ -54,9 +54,9 @@ It is said that a conventional PhD thesis has typically the following chapters:
 
   - Chapter 4: Methodological chapter
 
-  - Chapters 5 to 7 Results chapters (usually 2 or 3)
+  - Chapters 5 to 7: Results chapters (usually 2 or 3)
 
-  - Chapter 8 Conclusion and implications for policy and/or further research 
+  - Chapter 8: Conclusion and implications for policy and/or further research 
 
 
 
