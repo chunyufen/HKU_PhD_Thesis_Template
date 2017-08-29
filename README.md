@@ -37,13 +37,17 @@ The structure of the template is:
 
   1. Chapter 2 (Literature Review)
 
-  1. Chapter 3 (Methods)
+  1. Chapter 3 (Background to study population)
 
-  1. Chapter 4 (Data Analysis and Findings)
+  1. Chapter 4 (Method 1)
 
-  1. Chapter 5 (Summary, Conclusions and Recommendations)
+  1. Chapter 5 (Data Analysis and Findings)
 
-  1. Conclusion
+  1. Chapter 6 (Method 1)
+
+  1. Chapter 7 (Data Analysis and Findings)
+  
+  1. Chapter 8 (Summary, Conclusions and Recommendations)
 
   1. Appendix A (if applicable)
  
@@ -57,11 +61,11 @@ The main document is "main.tex".
 
 The folder "appendix" contains Appendix A and Appendix B.
 
-The folder "backMatters" contains the bibilography style file. The bibilography data file (.bib) stays with "main.tex".
+The bibilography data file (.bib) stays with "main.tex".
 
 The folder "chapters" contains the six chapters (including the conclusion).
 
-The folder "frontMatters" contains the "abstract.tex", "acknowledgment.tex", "contents.tex", "declaration.tex", "publication.tex" and "titlePage.tex".
+The folder "frontMatters" contains the "abstract.tex", "acknowledgment.tex", "dedication.tex", "contents.tex", "declaration.tex", "publication.tex" and "titlePage.tex".
 
 The folder "imageFiles" contains all the image files for the thesis.
 

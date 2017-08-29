@@ -146,19 +146,23 @@
 % Table of Contents (Including List of Tables and List of Figures)
 %*******************************************************
 
+
 \include{frontMatters/abstract}
 
 \cleardoublepage
+
+\pagenumbering{gobble} % switch of page numbering
 
 \include{frontMatters/titlePage}
 
 \cleardoublepage
 
+\pagenumbering{roman} % switch on page numbering (roman)
+
 \include{frontMatters/dedication}
 
 \cleardoublepage
 
-\pagenumbering{roman}
 
 \pagestyle{plain}
 
@@ -203,6 +207,14 @@
 
 \include{chapters/chapter6}
 
+\cleardoublepage
+
+\include{chapters/chapter7}
+
+\cleardoublepage
+
+\include{chapters/chapter8}
+
 %*******************************************************
 % Backmatter
 %*******************************************************
@@ -225,12 +237,16 @@
 
 %\bibliographystyle{plainnat}
 %\bibliographystyle{plain}
-\bibliographystyle{apalike}
 
-%\label{app:bibliography} 
+\bibliographystyle{apalike}
+\label{app:bibliography} 
+
+\addcontentsline{toc}{chapter}{Bibliography}%% to be removed
+
 \bibliography{exampleBibliography}
 
-%\include{backMatters/bibliography}
+
+
 %\cleardoublepage\include{FrontBackmatter/Colophon}
 
 %*******************************************************
