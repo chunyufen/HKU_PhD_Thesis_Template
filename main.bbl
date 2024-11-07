@@ -1,0 +1,61 @@
+\begin{thebibliography}{}
+
+\bibitem[Berg, 2016]{Berg2016}
+Berg, J. (2016).
+\newblock {\em {The Title of the Work}}.
+\newblock {The Organization}, The address of the publisher, 3rd edition.
+
+\bibitem[Collins, 2016]{Collins2016}
+Collins, J. (2016).
+\newblock {The Title of the Work}.
+\newblock In editor, T., editor, {\em {The Title of the Book}}, volume~4 of {\em 5}, page 213, The address of the publisher. {The Organization}, {The Publisher}.
+
+\bibitem[Gallagher, 2016]{Gallagher2016}
+Gallagher, F., editor (2016).
+\newblock {\em {The Title of the Work}}, volume~4 of {\em 5}, The address of the publisher. The organization, {The Name of the Publisher}.
+
+\bibitem[Graham, 2016]{Graham2016}
+Graham, D. (2016).
+\newblock {The Title of the Work}.
+\newblock {\em {The Name of the Journal}}, 4(2):201 -- 213.
+
+\bibitem[Grant, 2016]{Grant2016}
+Grant, C. (2016).
+\newblock {\em {The Title of the Work}}, volume~4 of {\em 10}.
+\newblock {The Name of the Publisher}, The address, 3rd edition.
+
+\bibitem[Haney, 2016]{Haney2016}
+Haney, B. (2016).
+\newblock {The Title of the Work}.
+\newblock In editor, T., editor, {\em {The Title of the Book}}, volume~4 of {\em 5}, chapter~8, pages 201 -- 213. {The Name of the Publisher}, The address of the publisher, 3 edition.
+
+\bibitem[Jordan, 2016]{Jordan2016}
+Jordan, M. (2016).
+\newblock {The Title of the Work}.
+\newblock How it was published, The address of the publisher.
+
+\bibitem[Morgan, 2016]{Morgan2016}
+Morgan, A. (2016).
+\newblock {\em {The Title of the Work}}.
+\newblock PhD thesis, {The School where the Thesis was Written}, The address of the publisher.
+
+\bibitem[Scott, 2016]{Scott2016}
+Scott, L. (2016).
+\newblock {The Title of the Work}.
+
+\bibitem[Stewart, 2016]{Stewart2016}
+Stewart, J. (2016).
+\newblock {The Title of the Work}.
+\newblock Technical Report~2, {The Institution that Published It}, The address of the publisher.
+
+\bibitem[Wells, 2016]{Wells2016}
+Wells, K. (2016).
+\newblock {The Title of the Work}.
+\newblock Master's thesis, {The School Where the Thesis was Written}, The address of the publisher.
+
+\bibitem[Williamson, 2016]{Williamson2016}
+Williamson, K. (2016).
+\newblock {\em {The Title of the Work}}, volume~4 of {\em 5}, chapter~8, pages 201 -- 213.
+\newblock {The Name of the Publisher}, The address of the publisher, 3rd edition.
+
+\end{thebibliography}

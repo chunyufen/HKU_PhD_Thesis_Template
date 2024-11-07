@@ -1,0 +1,1356 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.6)  8 NOV 2024 07:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-11-02>
+(/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
+(/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\c@figure=\count199
+\c@table=\count266
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-11-02 L3 programming layer (loader) 
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count270
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count271
+\g__pdf_backend_link_int=\count272
+))
+Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
+)
+\l__xeCJK_tmp_int=\count273
+\l__xeCJK_tmp_box=\box53
+\l__xeCJK_tmp_dim=\dimen150
+\l__xeCJK_tmp_skip=\skip51
+\g__xeCJK_space_factor_int=\count274
+\l__xeCJK_begin_int=\count275
+\l__xeCJK_end_int=\count276
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip52
+\c__xeCJK_none_node=\count277
+\g__xeCJK_node_int=\count278
+\c__xeCJK_CJK_node_dim=\dimen151
+\c__xeCJK_CJK-space_node_dim=\dimen152
+\c__xeCJK_default_node_dim=\dimen153
+\c__xeCJK_CJK-widow_node_dim=\dimen154
+\c__xeCJK_normalspace_node_dim=\dimen155
+\c__xeCJK_default-space_node_skip=\skip53
+\l__xeCJK_ccglue_skip=\skip54
+\l__xeCJK_ecglue_skip=\skip55
+\l__xeCJK_punct_kern_skip=\skip56
+\l__xeCJK_indent_box=\box54
+\l__xeCJK_last_penalty_int=\count279
+\l__xeCJK_last_bound_dim=\dimen156
+\l__xeCJK_last_kern_dim=\dimen157
+\l__xeCJK_widow_penalty_int=\count280
+
+LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
+(template)           argument(s) on line 2396.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen158
+\l__xeCJK_mixed_punct_width_dim=\dimen159
+\l__xeCJK_middle_punct_width_dim=\dimen160
+\l__xeCJK_fixed_margin_width_dim=\dimen161
+\l__xeCJK_mixed_margin_width_dim=\dimen162
+\l__xeCJK_middle_margin_width_dim=\dimen163
+\l__xeCJK_bound_punct_width_dim=\dimen164
+\l__xeCJK_bound_margin_width_dim=\dimen165
+\l__xeCJK_margin_minimum_dim=\dimen166
+\l__xeCJK_kerning_total_width_dim=\dimen167
+\l__xeCJK_same_align_margin_dim=\dimen168
+\l__xeCJK_different_align_margin_dim=\dimen169
+\l__xeCJK_kerning_margin_width_dim=\dimen170
+\l__xeCJK_kerning_margin_minimum_dim=\dimen171
+\l__xeCJK_bound_dim=\dimen172
+\l__xeCJK_reverse_bound_dim=\dimen173
+\l__xeCJK_margin_dim=\dimen174
+\l__xeCJK_minimum_bound_dim=\dimen175
+\l__xeCJK_kerning_margin_dim=\dimen176
+\g__xeCJK_family_int=\count281
+\l__xeCJK_fam_int=\count282
+\g__xeCJK_fam_allocation_int=\count283
+\l__xeCJK_verb_case_int=\count284
+\l__xeCJK_verb_exspace_skip=\skip57
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count285
+\l__fontspec_language_int=\count286
+\l__fontspec_strnum_int=\count287
+\l__fontspec_tmp_int=\count288
+\l__fontspec_tmpa_int=\count289
+\l__fontspec_tmpb_int=\count290
+\l__fontspec_tmpc_int=\count291
+\l__fontspec_em_int=\count292
+\l__fontspec_emdef_int=\count293
+\l__fontspec_strong_int=\count294
+\l__fontspec_strongdef_int=\count295
+\l__fontspec_tmpa_dim=\dimen177
+\l__fontspec_tmpb_dim=\dimen178
+\l__fontspec_tmpc_dim=\dimen179
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
+))
+
+Package fontspec Info: 
+(fontspec)             Script 'CJK' not explicitly supported within font
+(fontspec)             'Yuanti TC Light'. Check the typeset output, and if it
+(fontspec)             is okay then ignore this warning. Otherwise a different
+(fontspec)             font should be chosen.
+
+
+Package fontspec Info: 
+(fontspec)             Yuanti TC Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Yuanti TC Light/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Yuanti TC Light/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Yuanti TC Light/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Yuanti TC Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'YuantiTCLight(0)' created for font 'Yuanti
+(fontspec)             TC Light' with options [Script={CJK},Scale={1}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"Yuanti TC
+(fontspec)             Light/OT:script=hani;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen180
+\pgfutil@tempdimb=\dimen181
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box55
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen182
+\Gin@req@width=\dimen183
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen184
+\pgf@y=\dimen185
+\pgf@xa=\dimen186
+\pgf@ya=\dimen187
+\pgf@xb=\dimen188
+\pgf@yb=\dimen189
+\pgf@xc=\dimen190
+\pgf@yc=\dimen191
+\pgf@xd=\dimen192
+\pgf@yd=\dimen193
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count296
+\c@pgf@countb=\count297
+\c@pgf@countc=\count298
+\c@pgf@countd=\count299
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count300
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count301
+))) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count302
+\pgfsyssoftpath@bigbuffer@items=\count303
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen194
+\pgfmath@count=\count304
+\pgfmath@box=\box56
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count305
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen195
+\pgf@picmaxx=\dimen196
+\pgf@picminy=\dimen197
+\pgf@picmaxy=\dimen198
+\pgf@pathminx=\dimen199
+\pgf@pathmaxx=\dimen256
+\pgf@pathminy=\dimen257
+\pgf@pathmaxy=\dimen258
+\pgf@xx=\dimen259
+\pgf@xy=\dimen260
+\pgf@yx=\dimen261
+\pgf@yy=\dimen262
+\pgf@zx=\dimen263
+\pgf@zy=\dimen264
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen265
+\pgf@path@lasty=\dimen266
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen267
+\pgf@shorten@start@additional=\dimen268
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count306
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen269
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen270
+\pgf@pt@y=\dimen271
+\pgf@pt@temp=\dimen272
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen273
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen274
+\pgf@sys@shading@range@num=\count307
+\pgf@shadingcount=\count308
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box60
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box61
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen275
+\pgf@nodesepend=\dimen276
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen277
+\pgffor@skip=\dimen278
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen279
+)
+\tikz@lastx=\dimen280
+\tikz@lasty=\dimen281
+\tikz@lastxsaved=\dimen282
+\tikz@lastysaved=\dimen283
+\tikz@lastmovetox=\dimen284
+\tikz@lastmovetoy=\dimen285
+\tikzleveldistance=\dimen286
+\tikzsiblingdistance=\dimen287
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
+)
+\tikz@expandcount=\count317
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box66
+\pgfnodeparttwobox=\box67
+\pgfnodepartthreebox=\box68
+\pgfnodepartfourbox=\box69
+\pgfnodeparttwentybox=\box70
+\pgfnodepartnineteenbox=\box71
+\pgfnodeparteighteenbox=\box72
+\pgfnodepartseventeenbox=\box73
+\pgfnodepartsixteenbox=\box74
+\pgfnodepartfifteenbox=\box75
+\pgfnodepartfourteenbox=\box76
+\pgfnodepartthirteenbox=\box77
+\pgfnodeparttwelvebox=\box78
+\pgfnodepartelevenbox=\box79
+\pgfnodeparttenbox=\box80
+\pgfnodepartninebox=\box81
+\pgfnodeparteightbox=\box82
+\pgfnodepartsevenbox=\box83
+\pgfnodepartsixbox=\box84
+\pgfnodepartfivebox=\box85
+))) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen288
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.sty (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count318
+\l__lipsum_a_int=\count319
+\l__lipsum_b_int=\count320
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count321
+\mult@box=\box86
+\multicol@leftmargin=\dimen289
+\c@unbalance=\count322
+\c@collectmore=\count323
+\doublecol@number=\count324
+\multicoltolerance=\count325
+\multicolpretolerance=\count326
+\full@width=\dimen290
+\page@free=\dimen291
+\premulticols=\dimen292
+\postmulticols=\dimen293
+\multicolsep=\skip58
+\multicolbaselineskip=\skip59
+\partial@page=\box87
+\last@line=\box88
+\mc@boxedresult=\box89
+\maxbalancingoverflow=\dimen294
+\mult@rightbox=\box90
+\mult@grightbox=\box91
+\mult@firstbox=\box92
+\mult@gfirstbox=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\c@minrows=\count327
+\c@columnbadness=\count328
+\c@finalcolumnbadness=\count329
+\last@try=\dimen295
+\multicolovershoot=\dimen296
+\multicolundershoot=\dimen297
+\mult@nat@firstbox=\box130
+\colbreak@box=\box131
+\mc@col@check@num=\count330
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count331
+\rotFPtop=\skip60
+\rotFPbot=\skip61
+\rot@float@box=\box132
+\rot@mess@toks=\toks31
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip62
+\bibsep=\skip63
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count332
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count333
+\LTcapwidth=\dimen298
+\LT@head=\box133
+\LT@firsthead=\box134
+\LT@foot=\box135
+\LT@lastfoot=\box136
+\LT@gbox=\box137
+\LT@cols=\count334
+\LT@rows=\count335
+\c@LT@tables=\count336
+\c@LT@chunks=\count337
+\LT@p@ftn=\toks32
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen299
+\ar@mcellbox=\box138
+\extrarowheight=\dimen300
+\NC@list=\toks33
+\extratabsurround=\skip68
+\backup@length=\skip69
+\ar@cellbox=\box139
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks34
+\thm@bodyfont=\toks35
+\thm@headfont=\toks36
+\thm@notefont=\toks37
+\thm@headpunct=\toks38
+\thm@preskip=\skip70
+\thm@postskip=\skip71
+\thm@headsep=\skip72
+\dth@everypar=\toks39
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/10/30 v2.17s AMS math features
+\@mathmargin=\skip73
+
+For additional information on amsmath, use the `?' option.
+(/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks40
+\ex@=\dimen301
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen302
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count338
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count339
+\leftroot@=\count340
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count341
+\DOTSCASE@=\count342
+LaTeX Info: Redefining \ldots on input line 502.
+LaTeX Info: Redefining \dots on input line 505.
+LaTeX Info: Redefining \cdots on input line 638.
+\Mathstrutbox@=\box140
+\strutbox@=\box141
+LaTeX Info: Redefining \big on input line 740.
+LaTeX Info: Redefining \Big on input line 741.
+LaTeX Info: Redefining \bigg on input line 742.
+LaTeX Info: Redefining \Bigg on input line 743.
+\big@size=\dimen303
+LaTeX Font Info:    Redeclaring font encoding OML on input line 761.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 762.
+\macc@depth=\count343
+LaTeX Info: Redefining \bmod on input line 923.
+LaTeX Info: Redefining \pmod on input line 928.
+LaTeX Info: Redefining \smash on input line 958.
+LaTeX Info: Redefining \relbar on input line 988.
+LaTeX Info: Redefining \Relbar on input line 989.
+\c@MaxMatrixCols=\count344
+\dotsspace@=\muskip17
+\c@parentequation=\count345
+\dspbrk@lvl=\count346
+\tag@help=\toks41
+\row@=\count347
+\column@=\count348
+\maxfields@=\count349
+\andhelp@=\toks42
+\eqnshift@=\dimen304
+\alignsep@=\dimen305
+\tagshift@=\dimen306
+\tagwidth@=\dimen307
+\totwidth@=\dimen308
+\lineht@=\dimen309
+\@envbody=\toks43
+\multlinegap=\skip74
+\multlinetaggap=\skip75
+\mathdisplay@stack=\toks44
+LaTeX Info: Redefining \[ on input line 2972.
+LaTeX Info: Redefining \] on input line 2973.
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count350
+\calc@Bcount=\count351
+\calc@Adimen=\dimen310
+\calc@Bdimen=\dimen311
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count352
+\calc@Cskip=\skip78
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count353
+\float@exts=\toks45
+\float@box=\box142
+\@float@everytoks=\toks46
+\@floatcapt=\box143
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language5
+LaTeX Info: Redefining \_ on input line 43.
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-10-30 v7.01k Hypertext links for LaTeX
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count354
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count355
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen312
+\Hy@linkcounter=\count356
+\Hy@pagecounter=\count357
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-10-30 v7.01k Hyperref: PDFDocEncoding definition (HO)
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count358
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-10-30 v7.01k Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count359
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen313
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count360
+\Field@Width=\dimen314
+\Fld@charsize=\dimen315
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count361
+\c@Item=\count362
+\c@Hfootnote=\count363
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-10-30 v7.01k Hyperref driver for XeTeX
+\pdfm@box=\box144
+\c@Hy@AnnotLevel=\count364
+\HyField@AnnotCount=\count365
+\Fld@listcount=\count366
+\c@bookmark@seq@number=\count367
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (/Users/tsehayson/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip79
+)
+
+Package hyperref Warning: Unexpected value `false linktoc=all'
+(hyperref)                of option `colorlinks' instead of
+(hyperref)                `true' or 'false' on input line 116.
+
+
+LaTeX Warning: Unused global option(s):
+    [paper,fontsize].
+
+(./main.aux (./frontMatters/abstract.aux) (./frontMatters/titlePage.aux) (./frontMatters/dedication.aux) (./frontMatters/declaration.aux) (./frontMatters/acknowledgment.aux) (./frontMatters/publication.aux) (./frontMatters/contents.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux) (./chapters/chapter6.aux) (./chapters/chapter7.aux) (./chapters/chapter8.aux
+
+LaTeX Warning: Label `sec:ch_6_introduction' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_6_firstmain' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_6_secondmain' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_6_thirdmain' multiply defined.
+
+) (./appendix/appendChapter1.aux
+
+LaTeX Warning: Label `sec:ch_1_introduction' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_1_firstmain' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_1_secondmain' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_1_thirdmain' multiply defined.
+
+) (./appendix/appendChapter2.aux
+
+LaTeX Warning: Label `sec:ch_1_introduction' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_1_firstmain' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_1_secondmain' multiply defined.
+
+
+LaTeX Warning: Label `sec:ch_1_thirdmain' multiply defined.
+
+))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(105.27519pt, 403.74461pt, 105.27519pt)
+* v-part:(T,H,B)=(76.82243pt, 641.32512pt, 76.82243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=403.74461pt
+* \textheight=641.32512pt
+* \oddsidemargin=33.0052pt
+* \evensidemargin=33.0052pt
+* \topmargin=-32.44756pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=121.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 122.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 122.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 122.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 122.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 122.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 122.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 122.
+LaTeX Font Info:    Redeclaring math accent \check on input line 122.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 122.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 122.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 122.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 122.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 122.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 122.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 122.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 122.
+Package hyperref Info: Link coloring OFF on input line 122.
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+\openout2 = `frontMatters/abstract.aux'.
+
+ (./frontMatters/abstract.tex
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/m/sc' undefined
+(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 26.
+
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/b/sc' undefined
+(Font)              using `TU/TimesNewRoman(0)/b/n' instead on input line 26.
+
+
+LaTeX Font Warning: Font shape `TU/YuantiTCLight(0)/b/n' undefined
+(Font)              using `TU/YuantiTCLight(0)/m/n' instead on input line 34.
+
+LaTeX Font Info:    Font shape `TU/YuantiTCLight(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 34.
+
+Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
+(lipsum)                'english' will be used instead.
+
+
+
+[1
+
+
+]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <10> not available
+(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on input line 62.
+
+
+[2])
+\openout2 = `frontMatters/titlePage.aux'.
+
+ (./frontMatters/titlePage.tex
+
+[1
+
+
+
+
+])
+
+[2
+
+
+
+]
+\openout2 = `frontMatters/dedication.aux'.
+
+ (./frontMatters/dedication.tex)
+
+[1
+
+]
+
+[2
+
+
+
+]
+\openout2 = `frontMatters/declaration.aux'.
+
+ (./frontMatters/declaration.tex)
+
+[3
+
+
+]
+
+[4
+
+
+
+]
+\openout2 = `frontMatters/acknowledgment.aux'.
+
+ (./frontMatters/acknowledgment.tex)
+
+[5
+
+
+]
+
+[6
+
+
+
+]
+\openout2 = `frontMatters/publication.aux'.
+
+ (./frontMatters/publication.tex)
+
+[7
+
+
+]
+
+[8
+
+
+
+]
+\openout2 = `frontMatters/contents.aux'.
+
+ (./frontMatters/contents.tex (./main.toc
+
+[9
+
+
+])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+
+[10] (./main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+
+
+[11
+
+
+]
+
+[12
+
+] (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+
+
+[13
+
+]
+
+[14
+
+])
+\openout2 = `chapters/chapter1.aux'.
+
+ (./chapters/chapter1.tex
+Chapter 1.
+
+
+[1
+
+
+
+
+
+]
+
+[2]
+
+[3])
+
+[4]
+\openout2 = `chapters/chapter2.aux'.
+
+ (./chapters/chapter2.tex
+Chapter 2.
+
+
+[5
+
+
+
+
+
+]
+
+[6]
+
+[7])
+
+[8]
+\openout2 = `chapters/chapter3.aux'.
+
+ (./chapters/chapter3.tex
+Chapter 3.
+
+
+[9
+
+
+
+
+
+]
+
+[10]
+
+[11]
+
+[12])
+
+[13]
+
+[14
+
+
+
+]
+\openout2 = `chapters/chapter4.aux'.
+
+ (./chapters/chapter4.tex
+Chapter 4.
+
+
+[15
+
+
+]
+
+[16]
+File: imageFiles/imageExample.png Graphic file (type bmp)
+<imageFiles/imageExample.png>
+
+
+[17]
+
+[18])
+
+[19]
+
+[20
+
+
+
+]
+\openout2 = `chapters/chapter5.aux'.
+
+ (./chapters/chapter5.tex
+Chapter 5.
+
+
+[21
+
+
+]
+
+[22]
+
+[23])
+
+[24]
+\openout2 = `chapters/chapter6.aux'.
+
+ (./chapters/chapter6.tex
+Chapter 6.
+
+
+[25
+
+
+
+
+
+]
+
+[26]
+
+[27])
+
+[28]
+\openout2 = `chapters/chapter7.aux'.
+
+ (./chapters/chapter7.tex
+Chapter 7.
+
+
+[29
+
+
+
+
+
+]
+
+[30]
+
+[31])
+
+[32]
+\openout2 = `chapters/chapter8.aux'.
+
+ (./chapters/chapter8.tex
+Chapter 8.
+
+
+[33
+
+
+
+
+
+]
+
+[34]
+
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[36])
+
+[37]
+\openout2 = `appendix/appendChapter1.aux'.
+
+ (./appendix/appendChapter1.tex
+Appendix A.
+
+
+[38
+
+
+
+
+]
+
+[39]
+
+[40])
+
+[41]
+
+[42
+
+
+
+]
+\openout2 = `appendix/appendChapter2.aux'.
+
+ (./appendix/appendChapter2.tex
+Appendix B.
+
+
+[43
+
+
+]
+
+[44]
+
+[45])
+
+[46] (./main.bbl)
+
+[47
+
+
+
+
+
+] (./main.aux (./frontMatters/abstract.aux) (./frontMatters/titlePage.aux) (./frontMatters/dedication.aux) (./frontMatters/declaration.aux) (./frontMatters/acknowledgment.aux) (./frontMatters/publication.aux) (./frontMatters/contents.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux) (./chapters/chapter6.aux) (./chapters/chapter7.aux) (./chapters/chapter8.aux) (./appendix/appendChapter1.aux) (./appendix/appendChapter2.aux))
+ ***********
+LaTeX2e <2024-11-01>
+L3 programming layer <2022/08/05>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 4EFED4E53557F135895D0C993A80851A;8430.
+ ) 
+Here is how much of TeX's memory you used:
+ 28073 strings out of 475994
+ 618948 string characters out of 5777826
+ 1154102 words of memory out of 5000000
+ 50254 multiletter control sequences out of 15000+600000
+ 559745 words of font info for 79 fonts, out of 8000000 for 9000
+ 18 hyphenation exceptions out of 8191
+ 102i,9n,107p,541b,713s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (65 pages).
