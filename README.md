@@ -6,13 +6,11 @@ This is not an official template published by The Hong Kong University, Pokfulam
 
 The first version was uploaded in May 2018. This is an updated version in November 2024.
 
-This is a test XeLatex template for PhD students of The University of Hong Kong.
-The compilation process is:
-XeLatex -> Bibtex -> Xelatex -> Xelatex.
+This is a test XeLatex template for PhD students of The University of Hong Kong, Pokfulam.
 
 It is the duty of a student to check the Guide for MPhil and PhD Students for Preparing and Submitting Your Thesis. This Guide is now available only to current students.
 
-When I prepared this test template, the Guide is freely available on the internet.
+When I prepared the first version of the test template , the Guide was freely available on the internet.
 
 ## Structure of the thesis
 
@@ -28,11 +26,13 @@ The structure of the template is:
 
   1. Declarations
 
-  1. Acknowledgments
+  1. Acknowledgments (Amended with declarations in relation to use of generative AI materials)
 
-  1. (optional) Publications
+  1. Publications (Optional)
 
   1. Table of Contents
+  
+  1. List of Abbreviations
 
   1. List of Figures
 
@@ -58,7 +58,7 @@ The structure of the template is:
 
   1. Appendix B (if applicable)
   
-  1. Appendix C (if applicable)
+  1. Appendix C (if applicable, referred by the declarations of generative AI materials in Acknowledgments)
 
   1. Bibliography
 
@@ -113,7 +113,7 @@ The current setting is:
 
 ## List of acronyms (newly added)
 
-List of acronyms was added.
+List of abbreviations was added.
 
 ## Amendments to Acknowledgment
 
