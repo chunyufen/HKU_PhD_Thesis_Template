@@ -111,7 +111,7 @@ The current setting is:
 
   - \setCJKmainfont[Scale=0.9]{Songti TC}
 
-## List of acronyms (newly added)
+## List of abbreviations (newly added)
 
 List of abbreviations was added.
 
