@@ -1,0 +1,289 @@
+
+
+%*******************************************************
+% This program is free software: you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation, either version 3 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program.  If not, see <http://www.gnu.org/licenses/>.
+%*******************************************************
+% PhD Thesis Template
+% Use XeLatex to typeset
+% This template has been tested on
+% MacTeX-2015 Distribution
+% OS X EI Capitan version 10.11.4
+%*******************************************************
+% The font is 11pt. Paper size is A4. To be printed
+% twoside
+%*******************************************************
+
+\documentclass[twoside,paper=a4,fontsize=11pt]{report}
+
+%*******************************************************
+% From page 7 of Preparing and Submitting Your
+% Thesis - A guide for MPhil and PhD students:
+% The thesis submitted for examination shall be typewritten
+% or printed on one side or both sides of International size
+% A4 paper (except for drawings, maps or tables on
+% which no restriction is placed), with a margin of
+% not less than 35mm on both right and left-hand
+% edges of each page.
+% There is no stipulation for the top and bottom margins,
+% but it is recommended that they should be 25mm.
+% From page10:
+% Font heights are usually measured in points and
+% the most easily readable fonts are 10 point and 12 point.
+%*******************************************************
+
+\usepackage[left=37mm,right=37mm,top=27mm,bottom=27mm]{geometry}
+
+%*******************************************************
+% The following three lines set Chinese fonts so that you can
+% type your Chinese name.
+% The typeset method (so called compiling) is XeLatex.
+% Use the Chinese font available on your own computer.
+% Yuanti TL Light may not be available on your own computer.
+% The scale=1 sets the height of the Chinese font.
+%*******************************************************
+
+\usepackage{xltxtra,fontspec,xunicode}
+% \usepackage{ctex}
+\usepackage{xeCJK}
+% \setCJKmainfont[Scale=0.9]{SimSun}
+\setCJKmainfont[Scale=0.9]{Songti TC}
+
+
+%*******************************************************
+% The following two lines set the English fonts
+%*******************************************************
+
+\setromanfont{Times New Roman}
+\setsansfont{Arial}
+
+%*******************************************************
+% Include packages that you wish to use.
+%*******************************************************
+
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows}
+
+\usepackage{lipsum} % this generates dummy text
+
+\usepackage{multicol} % use multicolumn
+\usepackage{rotating} % to create a figure in landscape mode
+
+\usepackage{natbib} % this is for bibliography
+\usepackage{setspace} % this is for setting line spacing
+
+\usepackage{longtable} % this is for longtable
+
+
+\usepackage{pdflscape} % this adds PDF support to the landscape environment of package lscape,
+
+\usepackage{array}
+
+
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{calc}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{url}
+
+%*******************************************************
+% Define hyphenation for some special words
+%*******************************************************
+
+\usepackage{hyphenat} % this define hyphenation, an example is given in the next four lines.
+\hyphenation{pro-ban-da}
+\hyphenation{pro-ban-dum}
+\hyphenation{pen-ul-ti-mate}
+\hyphenation{sche-ma-tic}
+
+
+%*******************************************************
+% Make "clickable" Table of Contents
+%*******************************************************
+\usepackage{color}   %May be necessary if you want to color links
+\usepackage{hyperref}
+\hypersetup{
+    %colorlinks=true, %set true if you want colored links
+    colorlinks=false
+    linktoc=all,         %set to all if you want both sections and subsections linked
+    linkcolor=black,  %choose some color, e.g. blue, if you want links to stand out
+    }
+    
+%*******************************************************
+% Make glossary
+%*******************************************************
+
+\usepackage[acronym,toc]{glossaries}
+
+\makeglossaries
+\setacronymstyle{long-short}
+
+\input{frontMatters/acronym}
+
+
+
+%*******************************************************
+% This is the start of the thesis
+%*******************************************************
+
+\begin{document}
+	
+\linespread{1.2} % change it to 1 becomes single line spacing. Change it to 1.5 is a half line spacing.
+
+%*******************************************************
+% From page 10 of Preparing and Submitting Your Thesis
+% A guide for MPhil and PhD students:
+% Modern word processing programs will automatically
+% adjust the line spacing to match the size of text on any line.
+% Single line spacing will produce a dense but readable
+% text: the text may seem less formidable if one and a
+% spacing is used. Double spacing results in a rather
+% empty looking page and significantly increases
+% the number of pages in a thesis.
+%*******************************************************
+
+%*******************************************************
+% These are front matters.
+% Abstract
+% Title page
+% Dedication
+% Declaration
+% Acknowledgment
+% Publication (Optional)
+% Table of Contents (Including List of Tables and List of Figures)
+%*******************************************************
+
+
+\input{frontMatters/abstract}
+
+\cleardoublepage
+
+\pagenumbering{gobble} % switch of page numbering
+
+\input{frontMatters/titlePage}
+
+\cleardoublepage
+
+\pagenumbering{roman} % switch on page numbering (roman)
+
+\input{frontMatters/dedication}
+
+\cleardoublepage
+
+
+\pagestyle{plain}
+
+\input{frontMatters/declaration}
+
+\cleardoublepage
+\input{frontMatters/acknowledgment}
+
+\cleardoublepage
+\input{frontMatters/publication}
+
+\cleardoublepage
+\input{frontMatters/contents}
+
+%*******************************************************
+% Mainmatter
+%*******************************************************
+
+\pagenumbering{arabic}
+
+\cleardoublepage
+
+\input{chapters/chapter1}
+
+\cleardoublepage
+
+\input{chapters/chapter2}
+
+\cleardoublepage
+
+\input{chapters/chapter3}
+
+\cleardoublepage
+
+\input{chapters/chapter4}
+
+\cleardoublepage
+
+\input{chapters/chapter5}
+
+\cleardoublepage
+
+\input{chapters/chapter6}
+
+\cleardoublepage
+
+\input{chapters/chapter7}
+
+\cleardoublepage
+
+\input{chapters/chapter8}
+
+%*******************************************************
+% Backmatter
+%*******************************************************
+
+\appendix
+
+\input{appendix/appendChapter1}
+
+\cleardoublepage
+
+\input{appendix/appendChapter2}
+
+\cleardoublepage
+
+\input{appendix/appendChapter3}
+
+\cleardoublepage
+
+%*******************************************************
+% Other Stuff in the Back
+%*******************************************************
+\cleardoublepage
+
+%\bibliographystyle{plainnat}
+%\bibliographystyle{plain}
+
+\bibliographystyle{apalike}
+\label{app:bibliography} 
+
+\addcontentsline{toc}{chapter}{Bibliography}%% to be removed
+
+\bibliography{exampleBibliography}
+
+
+
+%\cleardoublepage\include{FrontBackmatter/Colophon}
+
+%*******************************************************
+
+\end{document}
+
+%*******************************************************
+% This is the end of the thesis
+%*******************************************************
+
+
+
+
+
+
+
+
+
