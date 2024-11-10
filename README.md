@@ -131,6 +131,7 @@ Some universities require acknowledgment of use of AI Generative materials, for 
 - [Declaration of AI generated material](https://www.jcu.edu.au/students/learning-centre/during-the-study-period/academic-integrity/generative-artificial-intelligence) (James Cook University)
 - [How do I acknowledge use of generative AI?](https://www.kcl.ac.uk/about/strategy/learning-and-teaching/ai-guidance/student-guidance) (King's College London)
 - [Acknowledging and referencing and generative AI tools.](https://www.imperial.ac.uk/admin-services/library/learning-support/generative-ai-guidance/) (Imperial College London)
+- [ChatGPT and artificial intelligence in higher education: quick start guide.](https://unesdoc.unesco.org/ark:/48223/pf0000385146) (UNESCO International Institute for Higher Education in Latin America and the Caribbean)
 
 Therefore, the "Acknowledgment" was recently amended. A student has the duty to check with university and supervising professor regarding the use of AI Generative materials.
 
